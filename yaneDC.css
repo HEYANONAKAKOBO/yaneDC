@@ -1,0 +1,79 @@
+body {
+  background-color: #1f1f1f;
+  text-align: center;
+}
+
+.heddar {
+  border: solid 20px #1f1f1f;
+  line-height: 180px;
+  float: inline-start;
+  width:100%;
+  height: 100%;
+ 
+}
+
+
+h1 {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+
+
+.menu {
+  color: white;
+  
+}
+
+.box3 {
+
+  border: solid 1px white;
+
+  float: left;
+  text-align: center;
+  border: solid 1px white;
+
+  line-height: 20px;
+
+
+  width:60%;
+
+}
+
+.box2 {
+
+  border: solid 1px white;
+  line-height: 30px;
+  float: left;
+  width:20%;
+  position: absolute;
+
+
+}
+
+h2 {
+  color: red;
+  font-size: 20px;
+}
+
+a {
+  color: blue;
+}
+
+a {
+  color: white;
+
+}
+
+.box1 {
+  font-size:5px;
+  line-height: 10px;
+  background-color: white;
+}
+
+.sinseihin {
+color: white;
+}
+
+
