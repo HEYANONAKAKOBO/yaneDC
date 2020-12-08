@@ -1,6 +1,6 @@
 body {
   background-color: #1f1f1f;
-  text-align: center;
+text-align: center;
 }
 
 .heddar {
@@ -12,13 +12,15 @@ body {
  
 }
 
-
 h1 {
   color: white;
   font-size: 50px;
   text-align: center;
+  width:20%;
+
 }
 
+.gazou img {width: 100%; height: auto;}
 
 
 .menu {
@@ -36,8 +38,9 @@ h1 {
 
   line-height: 20px;
 
+  width:55%;
 
-  width:60%;
+ 
 
 }
 
@@ -47,14 +50,13 @@ h1 {
   line-height: 30px;
   float: left;
   width:40%;
-  position: absolute;
-
-
+  font-weight: 1000;
 }
 
 h2 {
   color: red;
   font-size: 20px;
+  text-align: center;
 }
 
 a {
@@ -76,4 +78,14 @@ a {
 color: white;
 }
 
+.ue {
+  font-size: 20px;
+  color: white;
+  text-align: left;
+}
 
+
+img {
+  max-width: 100%;
+  height: auto;
+}
